@@ -7,7 +7,7 @@
  */
 namespace area_of_circle
 {
-    class Program
+    class CircleAreaMainApp
     {
         static void Main(string[] args)
         {
